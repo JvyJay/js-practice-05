@@ -1,4 +1,4 @@
-### JS Practice 04 :tada:
+### JS Practice 05 :tada:
 
 ### Description
 Simple JavaScript Counter Project.
